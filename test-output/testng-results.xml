@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9122" started-at="2020-04-20T05:38:20Z" finished-at="2020-04-20T05:38:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9122" started-at="2020-04-20T05:38:20Z" finished-at="2020-04-20T05:38:29Z">
+      <class name="org.txt.SampleDay3">
+        <test-method status="PASS" signature="browserLanch()[pri:0, instance:org.txt.SampleDay3@18be83e4]" name="browserLanch" is-config="true" duration-ms="8153" started-at="2020-04-20T05:38:20Z" finished-at="2020-04-20T05:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLanch -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.txt.SampleDay3@18be83e4]" name="startTime" is-config="true" duration-ms="5" started-at="2020-04-20T05:38:28Z" finished-at="2020-04-20T05:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.txt.SampleDay3@18be83e4]" name="test1" duration-ms="455" started-at="2020-04-20T05:38:28Z" finished-at="2020-04-20T05:38:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.txt.SampleDay3@18be83e4]" name="endTime" is-config="true" duration-ms="1" started-at="2020-04-20T05:38:29Z" finished-at="2020-04-20T05:38:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="endBrowser()[pri:0, instance:org.txt.SampleDay3@18be83e4]" name="endBrowser" is-config="true" duration-ms="485" started-at="2020-04-20T05:38:29Z" finished-at="2020-04-20T05:38:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endBrowser -->
+      </class> <!-- org.txt.SampleDay3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
